@@ -324,5 +324,5 @@ def add_header(response):
     return response
 
 
-if __name__ == '__main__':
-    app.run(debug=False,host='0.0.0.0')
+# if __name__ == '__main__':
+#     app.run(debug=False,host='0.0.0.0')
